@@ -60,7 +60,7 @@ function Hero() {
             <img src={linkedInIcon} alt="linkedIn icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           With a passion for developing modern React web apps for commercial
           businesses.
         </p>
