@@ -65,8 +65,12 @@ function Hero() {
           businesses.
         </p>
 
+        {/* <a href={CV} download>
+          <button> Reeesume</button>
+        </a> */}
+
         <a href={CV} download>
-          <button className="hover"> Resume</button>
+          <button className={styles.button}> Download CV</button>
         </a>
       </div>
     </section>
