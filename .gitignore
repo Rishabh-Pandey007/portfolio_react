@@ -1,1 +1,7 @@
 /node_modules
+/rishabh-portfolio/node_modules
+/.pnp
+/.pnp.js
+/.cache
+/.cache-loader
+/.cache-loader/*
